@@ -2,7 +2,7 @@
 //| SessionVolumeProfile.mq5                                         |
 //| Session Volume Profile Indicator — VAH, POC, VAL + Histogram     |
 //+------------------------------------------------------------------+
-#property copyright "Chethan Kumar S J"
+#property copyright "Pandya anand"
 #property version   "1.00"
 #property strict
 #property indicator_chart_window
